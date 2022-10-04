@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @auslj
-- 🌱 I’m currently learning Web Development to build up my skills in Frontended.
+- 🌱 I’m currently learning Web Development skills.
 - 📫 Feel free to reach me out at my linkedIn [Jian Li](https://www.linkedin.com/in/kenlj/)
 
 <!---
