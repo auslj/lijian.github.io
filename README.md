@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @auslj
-- 👀 I’m interested in reading books.
-- 🌱 I’m currently learning at University of Melbourne.
-- 💞️ I’m looking to collaborate on ...
-- 📫 Feel free to reach me out at auslij@gmail.com
+- 🌱 I’m currently learning Web Development to build up my skills in Frontended.
+- 📫 Feel free to reach me out at
 
 <!---
 auslj/auslj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
