@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @auslj
 - 🌱 I’m currently learning Web Development to build up my skills in Frontended.
-- 📫 Feel free to reach me out at
+- 📫 Feel free to reach me out at my linkedIn [Jian Li](https://www.linkedin.com/in/kenlj/)
 
 <!---
 auslj/auslj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
