@@ -9,6 +9,9 @@ hr {
     width: 5%;
 }
 
-h1{
+h1 {
     color:SeaGreen;
+}
+img:hover{
+    background-color: gold;
 }
