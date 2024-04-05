@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Jian Li
+Jian Li
+Cybersecurity Management Researcher
 
 Show Contacts
 
 Email
-richard@example.com
+jian8@student.unimelb.edu.au
 
 Phone
-+1 (213) 352-2795
++61 421 540 xxx
 
 Birthday
-June 23, 1982
+xxx xx, 19xx
 
 Location
-Sacramento, California, USA
+Melbourne, Victoria, Australia
 
 # navbar
 
